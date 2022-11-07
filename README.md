@@ -45,7 +45,7 @@ Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflga
 - On Github, go to the main page of the project
 - Open a terminal, or git bash
 - Replace the current working directory with the location where you want to clone it.
-- Type ```git clone https://github.com/Grezor/Weather-App.git```
+- Type ```git clone https://github.com/cryptotopstar/Weather-App.git```
 press on Entry
   
 ## Packages
