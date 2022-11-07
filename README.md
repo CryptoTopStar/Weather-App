@@ -104,13 +104,13 @@ api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
 https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}
 ```
 
-[more infos openweather](https://github.com/Grezor/Weather-App/blob/master/chapitres/openWeatherMap/account.md)
+[more infos openweather](https://github.com/cryptotopstar/Weather-App/blob/master/chapitres/openWeatherMap/account.md)
 - Mapbox :
 ```
 https://api.mapbox.com/geocoding/v5
 ```
 
-[more infos mapbox](https://github.com/Grezor/Weather-App/blob/master/chapitres/mapbox/mapbox.md)
+[more infos mapbox](https://github.com/cryptotopstar/Weather-App/blob/master/chapitres/mapbox/mapbox.md)
 
 
 ## Functionality
